@@ -15,7 +15,7 @@ The goal of this project is to:
 - Construct a multi-layer feedforward neural network using.
 - Train the model using adam and cross-entropy loss.
 - Evaluate model accuracy on the test set.
-- Confusion matrix for more detailed evaluation.
+- Classification report for more detailed evaluation.
 
 ## Technologies Used
 
