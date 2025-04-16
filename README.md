@@ -49,3 +49,8 @@ The dataset is automatically downloaded using the `torchvision.datasets.MNIST` c
 ## Results
 
 - Achieved high accuracy (97.15%) on MNIST test data.
+- Classification Report
+
+<p align="center">
+  <img src="images/classification_report.png" alt="Classification Report"/>
+</p>
